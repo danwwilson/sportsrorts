@@ -32,6 +32,13 @@ The grant data currently available is:
  - Better Ageing (BA) - `grants_ba`
  - Active After-Schools Communities program (AASC) - `grants_aasc`
  - dAIS Athlete Grant (DAS) - `grants_das`
+ - Elite Indigenous Travel and Accommodation Assistance program (EITAAP) - `grants_eitap`
+ - Multicultural Youth Sports Partnership Program (MYSP) - `grants_mysp`
+ - National Sporting Organisation (NSO) - `grants_nso`
+ - Move It AUS - Participation (PAR) - `grants_par`
+ - State/Territory Organisations (SPD Other) - `grants_spd`
+ - Sporting Schools - `grants_ss`
+ - Women Leaders in Sport (WLIS) - `grants_wlis`
 
 ``` r
 grants_csi
